@@ -1,7 +1,11 @@
 # ninja log v6
-15	174	7649046510589720	CMakeFiles/proiect_sda.dir/Culoar.cpp.obj	b7017715f62ceba8
+19	91	7649047194306169	CMakeFiles/proiect_sda.dir/Culoar.cpp.obj	b7017715f62ceba8
 9	176	7649046510534086	CMakeFiles/proiect_sda.dir/Rata.cpp.obj	9cd8c2479bca7296
 2	468	7649046510473083	CMakeFiles/proiect_sda.dir/main.cpp.obj	f79c16300c21e832
-19	91	7649047194306169	CMakeFiles/proiect_sda.dir/Culoar.cpp.obj	b7017715f62ceba8
 25	461	7649047194366248	CMakeFiles/proiect_sda.dir/app.cpp.obj	52d9c63884f03514
 461	678	7649047198722166	proiect_sda.exe	7722a0dac4501f11
+35	139	7649723581842120	CMakeFiles/proiect_sda.dir/Culoar.cpp.obj	bcf11b7c76233eec
+28	141	7649723581771996	CMakeFiles/proiect_sda.dir/Rata.cpp.obj	5540e4051b4732ca
+20	596	7649723581700195	CMakeFiles/proiect_sda.dir/main.cpp.obj	b5c997d635ee59c2
+42	632	7649723581916671	CMakeFiles/proiect_sda.dir/app.cpp.obj	84bdef4fe8e22787
+632	823	7649723587814583	proiect_sda.exe	7722a0dac4501f11

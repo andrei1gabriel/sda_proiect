@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "E:/CLion C++ Proiecte/proiect_sda/cmake-build-debug",
-		"source" : "E:/CLion C++ Proiecte/proiect_sda"
+		"build" : "C:/Users/gabim/Documents/GitHub/sda_proiect/cmake-build-debug",
+		"source" : "C:/Users/gabim/Documents/GitHub/sda_proiect"
 	},
 	"version" : 
 	{
